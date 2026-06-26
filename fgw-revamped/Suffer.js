@@ -1,1 +1,0 @@
-alert("Enjoy your purgatory.");
